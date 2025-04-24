@@ -21,8 +21,8 @@ Este proyecto es un blog/noticiero dinámico que consume datos en tiempo real de
 
 1. Cloná el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/blog-noticiero.git
-   cd blog-noticiero
+   git clone https://github.com/letus404/noticieroPHP.git
+   cd noticieroPHP
 
 2. Corré el servidor:
 php -S localhost:8000
@@ -36,6 +36,8 @@ php -S localhost:8000
 ✅ Paginación implementada
 ✅ Bootstrap para diseño limpio y responsive
 ✅ Código claro y modular
+
+![Vista previa del blog](image.png)
 
 
 Creado por Mariano Quinteros 
